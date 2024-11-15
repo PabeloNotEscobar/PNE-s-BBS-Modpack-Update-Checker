@@ -1,1 +1,1 @@
-### PNE's BBS Modpack Update Checker
+### Modpack Update Checker for PNE's BBS Modpack for 1.20.4
