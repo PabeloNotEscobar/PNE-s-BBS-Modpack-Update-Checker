@@ -1,7 +1,5 @@
 ## PNE's BBS Modpack 1.0.0
 The modpack that makes creating animations with BBS mod more accessible and easier is now available to public!
 
-### Changelog
-
-##### Version
-- Released version 1.0.0
+### Changes
+Look around the modpack and see for yourself :). The main focused features are listed on modpack info.
