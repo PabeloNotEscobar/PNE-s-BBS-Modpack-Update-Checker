@@ -8,10 +8,11 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Axiom
 - Added FancyMenu & Drippy Loading Screen
 - Added Full Brightness Toggle
+- Added Lamb Dynamic Lights
 - Added Language Reload
 - Added Modpack Update Checker & Mjoschta
 - Added Mouse Tweaks
-##### Optimization & Fixes
+##### Optimization & Fixing Mods
 - Added Debugify
 - Added Entity Culling
 - Added FerriteCore
