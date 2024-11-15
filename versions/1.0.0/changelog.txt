@@ -36,5 +36,3 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Changed font to BBS Round font from BBS Studio by McHorse
 - Changed GUI click sound to the one from BBS Studio
 - Changed menu background and singleplayer tabs to black
-
-
