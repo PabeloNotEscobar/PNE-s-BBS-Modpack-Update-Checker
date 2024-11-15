@@ -4,6 +4,9 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 
 ### Changes
 
+##### BBS mod
+- Added version 1.0.2
+
 #### Mods
 - Added Axiom
 - Added FancyMenu & Drippy Loading Screen
@@ -26,12 +29,12 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added ModernFix
 - Added Sodium, Sodium Extra & Resee's Sodium Options
 
+##### BBS mod
+- Added version 1.0.2
+
 #### Resource Pack
 - Changed font to BBS Round font from BBS Studio by McHorse
 - Changed GUI click sound to the one from BBS Studio
 - Changed menu background and singleplayer tabs to black
-
-##### BBS mod
-- Added version 1.0.2
 
 
