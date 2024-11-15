@@ -12,9 +12,11 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Language Reload
 - Added Modpack Update Checker & Mjoschta
 - Added Mouse Tweaks
-##### Optimization & Fixing Mods
+
+##### Optimization & Fixing
 - Added Debugify
 - Added Entity Culling
+- Added FastQuit
 - Added FerriteCore
 - Added Iris Shaders
 - Added Lithium
@@ -23,6 +25,7 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Model Gap Fix
 - Added ModernFix
 - Added Sodium, Sodium Extra & Resee's Sodium Options
+
 ##### BBS mod
 - Added version 1.0.2
 
