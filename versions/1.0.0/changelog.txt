@@ -4,12 +4,10 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 
 ### Changes
 
-#### BBS mod
-- Added version 1.0.2
-
 ### Mods
 - Added Axiom
 - Added FancyMenu & Drippy Loading Screen
+- Added FastQuit
 - Added Full Brightness Toggle
 - Added Lamb Dynamic Lights
 - Added Language Reload
@@ -19,7 +17,6 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 #### Optimization & Fixing
 - Added Debugify
 - Added Entity Culling
-- Added FastQuit
 - Added FerriteCore
 - Added Iris Shaders
 - Added Lithium
