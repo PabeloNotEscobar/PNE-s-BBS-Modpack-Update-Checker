@@ -1,3 +1,4 @@
-### Changes:
+### Changelog
 
-- Released modpack version 1.0.0
+## Version
+- Released version 1.0.0
