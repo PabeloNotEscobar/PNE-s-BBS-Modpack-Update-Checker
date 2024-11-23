@@ -6,6 +6,7 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 
 ### Mods
 - Added Axiom
+- Added Carpet
 - Added FancyMenu & Drippy Loading Screen
 - Added FastQuit
 - Added Full Brightness Toggle
@@ -15,6 +16,7 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Mouse Tweaks
 
 ### Optimization & Fixing
+- Added Carpet-Fixes
 - Added Debugify
 - Added Entity Culling
 - Added FerriteCore
@@ -27,7 +29,7 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Sodium, Sodium Extra & Resee's Sodium Options
 
 ### BBS mod
-- Added version 1.0.2
+- Added version 1.0.3
 
 ### Resource Pack
 - Changed font to BBS Round font from BBS Studio by McHorse
