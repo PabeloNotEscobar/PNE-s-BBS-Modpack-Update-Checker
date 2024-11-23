@@ -16,7 +16,6 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Mouse Tweaks
 
 ### Optimization & Fixing
-- Added Carpet-Fixes
 - Added Debugify
 - Added Entity Culling
 - Added FerriteCore
