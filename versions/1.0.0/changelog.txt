@@ -7,6 +7,7 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 ### Mods
 - Added Axiom
 - Added Carpet
+- Added Caxton
 - Added FancyMenu & Drippy Loading Screen
 - Added FastQuit
 - Added Full Brightness Toggle
