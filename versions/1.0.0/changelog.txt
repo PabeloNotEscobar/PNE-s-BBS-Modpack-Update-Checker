@@ -31,7 +31,10 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 ### BBS mod
 - Added version 1.0.3
 
+### GUI
+- Added BBS-like taskbar with BBS-like buttons from default Minecraft title screen and the modded ones
+
 ### Resource Pack
 - Changed font to BBS Round font from BBS Studio by McHorse
 - Changed GUI click sound to the one from BBS Studio
-- Changed menu background and singleplayer tabs to black
+- Changed options background and singleplayer tabs to black
