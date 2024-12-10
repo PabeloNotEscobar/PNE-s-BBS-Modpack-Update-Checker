@@ -29,10 +29,10 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Sodium, Sodium Extra & Resee's Sodium Options
 
 #### BBS mod
-- Added version 1.0.3
+- Added version 1.1
 
 ### GUI
-- Added BBS-like taskbar with BBS-like buttons from default Minecraft title screen and the modded ones
+- Added BBS-like taskbar with BBS-like buttons from default Minecraft title screen and the modded ones 
 
 ### Resource Pack
 - Changed font to BBS Round font from BBS Studio by McHorse
