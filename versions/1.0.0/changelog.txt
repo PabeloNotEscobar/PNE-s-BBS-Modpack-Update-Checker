@@ -32,7 +32,8 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added version 1.1
 
 ### GUI
-- Added BBS-like taskbar with BBS-like buttons from default Minecraft title screen and the modded ones 
+- Added BBS-like taskbar with BBS-like buttons from default Minecraft title screen and the modded ones
+- Translatable tooltips of buttons; The available languages for now are: English (US), Deutsch, French, Polish and Spanish.
 
 ### Resource Pack
 - Changed font to BBS Round font from BBS Studio by McHorse
