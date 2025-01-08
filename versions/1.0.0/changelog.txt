@@ -20,6 +20,7 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Debugify
 - Added Entity Culling
 - Added FerriteCore
+- Added ImmediatelyFast
 - Added Iris Shaders
 - Added Lithium
 - Added Memory Leak Fix
