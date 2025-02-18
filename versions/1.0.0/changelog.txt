@@ -24,13 +24,11 @@ The modpack that makes creating animations with BBS mod more accessible and easi
 - Added Iris Shaders
 - Added Lithium
 - Added Memory Leak Fix
+- Added MixinTrace
 - Added Mod Menu
 - Added Model Gap Fix
 - Added ModernFix
 - Added Sodium, Sodium Extra & Resee's Sodium Options
-
-#### BBS mod
-- Added version 1.1
 
 ### GUI
 - Added BBS-like taskbar with BBS-like buttons from default Minecraft title screen and the modded ones
